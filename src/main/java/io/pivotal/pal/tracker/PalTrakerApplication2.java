@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-public class PalTrackerApplication {
+public class PalTrackerApplication2 {
 
     public static void main(String[] args) {
-        SpringApplication.run(PalTrackerApplication.class, args);
+        SpringApplication.run(PalTrackerApplication2.class, args);
     }
 
     @Bean
